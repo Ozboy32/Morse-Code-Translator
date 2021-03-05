@@ -1,0 +1,2 @@
+# Morse Code Translator
+ I made this a while ago and was not sure at the time how to display the output in a gui so just used the console instead.  I could fix it but it would take longer than I would want to spend on it so I'm just going to leave it for now.
